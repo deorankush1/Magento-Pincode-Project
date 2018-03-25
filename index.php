@@ -4,7 +4,7 @@
 	<title> AJAX DB </title>
 </head>
 <body>
-Name:- <input type = "text" id= "name">
+Pincode:- <input type = "int" id= "name">
 <input type = "submit" id ="name-submit" value = "Grab">
 <div id = "name-data"> </div>
 <script src ="http://code.jquery.com/jquery-1.8.0.min.js"> </script>
